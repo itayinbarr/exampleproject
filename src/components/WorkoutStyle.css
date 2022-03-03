@@ -1,0 +1,217 @@
+/* WorkoutHome */
+
+.pageProps {
+    background:#fafafa;
+}
+.homeBack {
+    --ion-background-color: #fafafa;
+
+}
+
+.logoRow {
+    margin-top:5%
+}
+.logoImage {
+    width:40%;
+    margin:auto;
+}
+
+.upperNav {
+    margin-top:5%;
+    background: #3e79ea;
+}
+
+.templateRow {
+    margin-top:5%;
+}
+
+/* Workout Experience */
+
+/* Header & UI */
+.placement{
+    opacity: 0;
+}
+.headerBorder {
+    background:#ffffff;
+    height:2px;
+    margin-top:2%;
+    margin-right:-2%
+}
+
+.center {
+    text-align:center;
+}
+
+.headerMargin {
+    margin-top:5%;
+}
+
+.expText {
+    color:#fff
+}
+
+.logoTitle {
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+.pageBottom{
+    padding-bottom:24%;
+}
+/* Warm up */
+.warmup {
+    --ion-background-color: #95B8FC;
+}
+
+.timerStyle{
+    transition: all .2s ease-in-out;
+font-size: 44pt;
+text-align: center;
+font-weight: bold;
+
+}
+
+.timeleftMargin {
+    margin-top:10px;   
+
+}
+.timeleftBefore {
+    transition: 0.5s;
+    font-size: 44pt;
+text-align: center;
+font-weight: bold;
+    margin-top:5px;
+}
+.timeleftBigger {
+    transition: 0.5s;
+    transform: scale(1.30);
+    margin-top:10px;
+}
+
+.timerTitle {
+    margin-top:15%
+}
+
+.pickerRighter {
+    margin-left:8px
+}
+.warmuplowerNav {
+    position:fixed;
+    width:100%;
+    bottom:0;
+  background-color:#95B8FC;
+}
+/* Main part */
+.mainpartlowerNav {
+    position:fixed;
+    width:100%;
+    bottom:0;
+    background-color:#3e79ea;
+}
+.mainpart {
+    transition: 600ms;
+    --ion-background-color: #3e79ea;
+}
+
+.mainpart2 {
+    transition: 600ms;
+    --ion-background-color: #3e79ea;
+}
+
+.mainpart3 {
+    transition: 600ms;
+    --ion-background-color: #3e79ea;
+}
+
+.mainpart4 {
+    transition: 600ms;
+    --ion-background-color: #3e79ea;
+}
+
+.mainpart5 {
+    transition: 600ms;
+    --ion-background-color: #3e79ea;
+}
+
+.cardBorder {
+    background:#ffffff;
+    height:1px;
+    margin-top:3%;
+    margin:auto
+}
+
+
+.punchText {
+    font-size:18pt;
+}
+.punchTitle {
+    font-size:18pt;
+    font-weight: bold;
+}
+.mainTimer {
+    font-size:16pt;
+}
+
+.mainTimerOn {
+    font-size:18pt;
+    font-weight: bold;
+    float: right;
+    
+}
+.checked {
+    font-weight: bold;
+}
+
+.speedButton {
+    font-size: 16pt;
+}
+/* Take picture */
+.lowerMarginer {
+    padding-bottom: 18%;
+}
+.takepicture {
+    --ion-background-color: #6a64ff;
+}
+
+.bestWay {
+    font-size:32pt;
+    font-weight: bold;
+}
+
+.afterClass {
+    font-weight: bold;
+}
+
+.pictureTitle {
+    margin-top:1%
+}
+
+.picturelowerNav {
+    position:fixed;
+    width:100%;
+    bottom:0;
+    background-color:#6a64ff;
+}
+
+.takepictureimg{
+    margin: auto;
+    width:50%;
+}
+/* cooldown */ 
+    .cooldown {
+        --ion-background-color: #95B8FC;
+    }
+
+
+/* finish */
+.finishSub {
+    text-align: center;
+    color:black
+}
+
+.finishTitle {
+    text-align:center;
+    color:black;
+    font-size: 28pt;
+    font-weight: bold;
+}

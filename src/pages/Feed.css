@@ -1,0 +1,61 @@
+/* Main Feed StyleSheet */
+.pageProps {
+    background:#fafafa;
+}
+
+.logo {
+    width:50%;
+    transition: 0.5s;
+    margin:auto;
+    margin-top:10px;
+}
+
+.logoShrink {
+    width:40%;
+    transition: 0.5s;
+    margin:auto;
+    margin-top:10px;
+  }
+
+.container {
+    text-align: center;
+    height: 10%; 
+}
+
+.title {
+    text-align:center;
+}
+
+.forgot {
+    text-align:left;
+}
+
+.center {
+    text-align:center;
+}
+
+.border {
+    background:#a484db;
+    height:1px;
+}
+
+/* Workout window stylesheet */
+
+.cardImage {
+    width:50%;
+    margin:auto;
+    margin-top:30px;
+}
+
+.modalBorder {
+    background:#95b8fc;
+    height:3px;
+}
+
+.infoName {
+    font-size:14pt
+}
+
+.infoTitle{
+    font-size: 22pt;
+}

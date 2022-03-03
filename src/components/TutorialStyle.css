@@ -1,0 +1,20 @@
+ion-slides {
+    height: 100%;
+  }
+
+.secondslideMargin {
+  margin-top:5%;
+}
+
+.feedbackBold{
+  font-weight: bold;
+  
+}
+
+.backbutton {
+  margin-top: 7%;
+  margin-right: 3%;
+
+  position: fixed;
+  z-index: 1;
+}

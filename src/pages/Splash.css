@@ -1,0 +1,12 @@
+.logo {
+    width:75%;
+    margin:auto;
+}
+
+.container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 45%;
+    transform: translateY(-50%);
+}

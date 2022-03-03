@@ -1,0 +1,7 @@
+{
+  "name": "myDojo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

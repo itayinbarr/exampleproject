@@ -1,0 +1,24 @@
+.ccontainer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 40%;
+    transform: translateY(-50%);
+    margin:auto;
+}
+
+.title {
+    text-align:center;
+}
+
+.forgot {
+    text-align:center;
+}
+
+.center {
+    text-align:center;
+}
+
+.topBackBtn {
+    margin-top:9%;
+}
